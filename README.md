@@ -61,4 +61,3 @@ class SimpleCalc:
 ```
 #### Run tests again to ensure that all 4 tests pass using:
 - command `python -m unittest`
-- 
